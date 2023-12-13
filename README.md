@@ -19,7 +19,8 @@ MoMo Strategy: Learn More from More Mistakes <br>
 - [Pre-trained models (Inception-ResNet-v2)](https://github.com/tensorflow/models/tree/r1.12.0/research/slim#pre-trained-models)
 
 ## Dataset
-[PlantCLEF2023](https://www.aicrowd.com/challenges/lifeclef-2022-23-plant)
+- [PlantCLEF2023](https://www.aicrowd.com/challenges/lifeclef-2022-23-plant)
+- Dataset label map [labels_classid_map.csv](https://github.com/NeuonAI/momo_strategy/blob/229079bf35fc894d64583e6d093b68de0e04e5dc/lists/labels_classid_map.csv)
 
 ## Scripts
 **Training lists**
